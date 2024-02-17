@@ -7,9 +7,10 @@ var pool  = mysql.createPool({
   database        : 'pets'
 });
 
-pool.query('SELECT * FROM `pets`.`cats` LIMIT 1000;', function (error, results, fields) {
+
+pool.query('SELECT * FROM `pets`.`cats` LIMIT 1;', function (error, results, fields) {
   if (error) throw error;
-  console.log(results);
+  //console.log(results);
 });
 
 
