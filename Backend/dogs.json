@@ -1,0 +1,1432 @@
+{
+  "animals": [
+      {
+          "id": 70763828,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/draco-70763828/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Pit Bull Terrier",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Gray / Blue / Silver",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Draco",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108275",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763828"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763829,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/baker-209067-70763829/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Yellow / Tan / Blond / Fawn",
+              "secondary": "Red / Chestnut / Orange",
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Baker (209067)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108351",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763829"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763830,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/magic-209075-70763830/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Terrier",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Yellow / Tan / Blond / Fawn",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Magic (209075)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108349",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763830"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763831,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/lucy-70763831/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Australian Cattle Dog / Blue Heeler",
+              "secondary": "Shepherd",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Yellow / Tan / Blond / Fawn",
+              "secondary": "Red / Chestnut / Orange",
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Lucy",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108397",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763831"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763832,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/surprise-209047-70763832/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Terrier",
+              "secondary": "Poodle",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "White / Cream",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Surprise (209047)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108350",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763832"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763833,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/bambi-70763833/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Bambi",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108354",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763833"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763834,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/auroraorange-70763834/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": "Black",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Aurora(orange)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108170",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763834"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763835,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/ariannawhite-70763835/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Arianna(white)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108164",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763835"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763837,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/flower-70763837/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Flower",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108365",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763837"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763838,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/whitman-209146-70763838/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Terrier",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Whitman (209146)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108346",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763838"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763839,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/luciagreen-70763839/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Lucia(green)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108172",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763839"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763840,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/shasta-70763840/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Fox Terrier",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "White / Cream",
+              "secondary": "Brown / Chocolate",
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Shasta",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108353",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763840"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763841,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/dixie-70763841/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Yellow / Tan / Blond / Fawn",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Dixie",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108348",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763841"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763842,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/cider-70763842/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Terrier",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Golden",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Cider",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108364",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763842"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763843,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/moon-70763843/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "White / Cream",
+              "secondary": "Gray / Blue / Silver",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Moon",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108375",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763843"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763845,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/carolina-70763845/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Chihuahua",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Carolina",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108366",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763845"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763846,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/giared-70763846/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Gia(Red)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108165",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763846"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70763847,
+          "organization_id": "WA48",
+          "url": "https://www.petfinder.com/dog/biancayellow-70763847/wa/spokane/spokanimal-wa48/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Brown / Chocolate",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Bianca(yellow)",
+          "description": null,
+          "organization_animal_id": "SPWA-A-108166",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:55+0000",
+          "published_at": "2024-02-17T19:48:54+0000",
+          "distance": null,
+          "contact": {
+              "email": "miracles@spokanimal.org",
+              "phone": "(509) 534-8133",
+              "address": {
+                  "address1": "710 N Napa Street",
+                  "address2": null,
+                  "city": "Spokane",
+                  "state": "WA",
+                  "postcode": "99202",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763847"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/wa48"
+              }
+          }
+      },
+      {
+          "id": 70759750,
+          "organization_id": "VT110",
+          "url": "https://www.petfinder.com/dog/isla-70759750/vt/bethel/village-for-paws-rescue-vt110/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Shepherd",
+              "secondary": null,
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": true,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Isla",
+          "description": "Full bio to follow\n\nAll of VFPR are spayed/Neutered-Current on Vaccines and Microchipped\n\nPlease complete our online application and submit...",
+          "organization_animal_id": null,
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/1/?bust=1708177424&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/1/?bust=1708177424&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/1/?bust=1708177424&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/1/?bust=1708177424"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70759750/2/?bust=1708177425"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:45+0000",
+          "published_at": "2024-02-17T19:48:44+0000",
+          "distance": null,
+          "contact": {
+              "email": "villageforpawsrescue@gmail.com",
+              "phone": null,
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Bethel",
+                  "state": "VT",
+                  "postcode": "05032",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70759750"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/vt110"
+              }
+          }
+      },
+      {
+          "id": 70763824,
+          "organization_id": "OH285",
+          "url": "https://www.petfinder.com/dog/stallone-70763824/oh/zanesville/muskingum-county-k-9-adoption-center-oh285/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Rottweiler",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Bicolor",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Large",
+          "coat": "Short",
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Stallone",
+          "description": "Approximately 70lbs\n\n\nAvailable for adoption at:\nMuskingum County K-9 Adoption Center\n1854 East Pike, Zanesville, Ohio 43701\n740-453-0273\n\nOpen to...",
+          "organization_animal_id": null,
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/1/?bust=1708199314&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/1/?bust=1708199314&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/1/?bust=1708199314&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/1/?bust=1708199314"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/2/?bust=1708199315&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/2/?bust=1708199315&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/2/?bust=1708199315&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/2/?bust=1708199315"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/4/?bust=1708199318&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/4/?bust=1708199318&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/4/?bust=1708199318&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/4/?bust=1708199318"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/5/?bust=1708199319&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/5/?bust=1708199319&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/5/?bust=1708199319&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/5/?bust=1708199319"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70763824/3/?bust=1708199317"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T19:48:41+0000",
+          "published_at": "2024-02-17T19:48:40+0000",
+          "distance": null,
+          "contact": {
+              "email": "aconrad@ohiomuskingumsheriff.org",
+              "phone": "(740) 453-0273",
+              "address": {
+                  "address1": "1854 East Pike",
+                  "address2": null,
+                  "city": "Zanesville",
+                  "state": "OH",
+                  "postcode": "43701",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70763824"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/oh285"
+              }
+          }
+      }
+  ],
+  "pagination": {
+      "count_per_page": 20,
+      "total_count": 168338,
+      "current_page": 2,
+      "total_pages": 8417,
+      "_links": {
+          "previous": {
+              "href": "/v2/animals?page=1&type=dog"
+          },
+          "next": {
+              "href": "/v2/animals?page=3&type=dog"
+          }
+      }
+  }
+}

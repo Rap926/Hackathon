@@ -1,0 +1,367 @@
+{
+  "animals": [
+      {
+          "id": 70764714,
+          "organization_id": "MO389",
+          "url": "https://www.petfinder.com/cat/waffles-70764714/mo/kansas-city/kitty-cat-connection-mo389/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Cat",
+          "species": "Cat",
+          "breeds": {
+              "primary": "Domestic Short Hair",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": "Short",
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": true,
+              "declawed": false,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": false,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Waffles ",
+          "description": "My owner moved and left me and my sister behind. I&#039;m friendly, loving, and full of energy. I purr, play,...",
+          "organization_animal_id": null,
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70764714/1/?bust=1708204460"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T21:14:23+0000",
+          "published_at": "2024-02-17T21:14:22+0000",
+          "distance": null,
+          "contact": {
+              "email": "savingcatslives@gmail.com",
+              "phone": "816-510-4400",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Kansas City",
+                  "state": "MO",
+                  "postcode": "64155",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70764714"
+              },
+              "type": {
+                  "href": "/v2/types/cat"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mo389"
+              }
+          }
+      },
+      {
+          "id": 70764709,
+          "organization_id": "MO516",
+          "url": "https://www.petfinder.com/cat/skippyjon-jones-70764709/mo/neosho/faithful-friends-animal-advocates-inc-mo516/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Cat",
+          "species": "Cat",
+          "breeds": {
+              "primary": "Domestic Short Hair",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": false,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Skippyjon Jones",
+          "description": null,
+          "organization_animal_id": "C24016",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T21:14:06+0000",
+          "published_at": "2024-02-17T21:14:05+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt.ffaa@gmail.com",
+              "phone": "(417) 592-2512",
+              "address": {
+                  "address1": "11281 East Highway 86",
+                  "address2": null,
+                  "city": "Neosho",
+                  "state": "MO",
+                  "postcode": "64850",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70764709"
+              },
+              "type": {
+                  "href": "/v2/types/cat"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mo516"
+              }
+          }
+      },
+      {
+          "id": 70764710,
+          "organization_id": "MO516",
+          "url": "https://www.petfinder.com/cat/flarry-70764710/mo/neosho/faithful-friends-animal-advocates-inc-mo516/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Cat",
+          "species": "Cat",
+          "breeds": {
+              "primary": "Domestic Short Hair",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": false,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Flarry",
+          "description": null,
+          "organization_animal_id": "C24017",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T21:14:06+0000",
+          "published_at": "2024-02-17T21:14:05+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt.ffaa@gmail.com",
+              "phone": "(417) 592-2512",
+              "address": {
+                  "address1": "11281 East Highway 86",
+                  "address2": null,
+                  "city": "Neosho",
+                  "state": "MO",
+                  "postcode": "64850",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70764710"
+              },
+              "type": {
+                  "href": "/v2/types/cat"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mo516"
+              }
+          }
+      },
+      {
+          "id": 70764711,
+          "organization_id": "MO516",
+          "url": "https://www.petfinder.com/cat/bernie-70764711/mo/neosho/faithful-friends-animal-advocates-inc-mo516/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Cat",
+          "species": "Cat",
+          "breeds": {
+              "primary": "Domestic Short Hair",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": false,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Bernie",
+          "description": null,
+          "organization_animal_id": "C24012",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T21:14:06+0000",
+          "published_at": "2024-02-17T21:14:05+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt.ffaa@gmail.com",
+              "phone": "(417) 592-2512",
+              "address": {
+                  "address1": "11281 East Highway 86",
+                  "address2": null,
+                  "city": "Neosho",
+                  "state": "MO",
+                  "postcode": "64850",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70764711"
+              },
+              "type": {
+                  "href": "/v2/types/cat"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mo516"
+              }
+          }
+      },
+      {
+          "id": 70764712,
+          "organization_id": "MO516",
+          "url": "https://www.petfinder.com/cat/cinder-70764712/mo/neosho/faithful-friends-animal-advocates-inc-mo516/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Cat",
+          "species": "Cat",
+          "breeds": {
+              "primary": "Domestic Short Hair",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": false,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Cinder",
+          "description": null,
+          "organization_animal_id": "C24013",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-17T21:14:06+0000",
+          "published_at": "2024-02-17T21:14:05+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt.ffaa@gmail.com",
+              "phone": "(417) 592-2512",
+              "address": {
+                  "address1": "11281 East Highway 86",
+                  "address2": null,
+                  "city": "Neosho",
+                  "state": "MO",
+                  "postcode": "64850",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70764712"
+              },
+              "type": {
+                  "href": "/v2/types/cat"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mo516"
+              }
+          }
+      }
+  ],
+  "pagination": {
+      "count_per_page": 5,
+      "total_count": 110297,
+      "current_page": 1,
+      "total_pages": 22060,
+      "_links": {
+          "next": {
+              "href": "/v2/animals?limit=5&status=adoptable&type=cat&page=2"
+          }
+      }
+  }
+}
