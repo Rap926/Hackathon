@@ -2572,7 +2572,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
@@ -2705,9 +2705,15 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
-				/* background-color: #6581dc; */
-			}
+
+			
+					
+			/*STYLES*/
+			
+					
+			/*.tiles article.style1 > .image:before {
+				 background-color: #6581dc; 
+			}*/
 
 			.tiles article.style2 > .image:before {
 				background-color: #7ecaf6;
@@ -3330,7 +3336,7 @@ input, select, textarea {
 
 		}
 
-		
+
 /*card stuff*/
 		#card-container {
 			display: flex;
