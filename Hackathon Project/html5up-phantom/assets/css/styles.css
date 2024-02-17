@@ -71,6 +71,6 @@ body {
     font-size: 25px;
     margin: 0 auto;
     display: block;
-    border-color: none;
+    background-color: rgb(95, 201, 95);
 }
 
