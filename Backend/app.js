@@ -4,6 +4,7 @@ const connection = mysql.createConnection({
   user: 'sqluser',
   password: 'password'
 });
+const sql = 'SELECT * FROM `pets`.`cats` LIMIT 1000;'
 
 connection.connect((error) => {
   if(error){
@@ -11,5 +12,11 @@ connection.connect((error) => {
     return;
   }
   console.log('Connection established successfully');
+  connection.query(sql, function (err, result){
+    if (err) throw err;
+    console.log("Result: " + result);
+  });
 })
+
+
 connection.end((error) => {});
