@@ -1421,13 +1421,29 @@ input, select, textarea {
   .close {
 	color: #000000;
 	float: right;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: bold;
-	padding: 15px;
+	padding: 25px;
   }
   
   .close:hover,
   .close:focus {
+	color: #ff0000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+  /* The Close Button */
+  .close2 {
+	color: #000000;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 25px;
+  }
+  
+  .close2:hover,
+  .close2:focus {
 	color: #ff0000;
 	text-decoration: none;
 	cursor: pointer;
@@ -1481,8 +1497,8 @@ input, select, textarea {
   .filter-Button{
 	position: fixed;
 	top: 200px;
-	left: 75px;
-	width: 250px;
+	left: 50px;
+	width: 300px;
 	height: 125px;
 	background-color: #bfe1ff;
 			border: none;
@@ -1503,10 +1519,42 @@ input, select, textarea {
 	background-color: #6292bc;
 	padding: 25px 50px;
   }
+
+  .interest-Button{
+	position: fixed;
+	top: 400px;
+	left: 50px;
+	width: 300px;
+	height: 125px;
+	background-color: #f49a2b;
+			border: none;
+			color: black;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 27px;
+			margin: 4px 2px;
+			transition-duration: 0.4s;
+			cursor: pointer;
+			border-radius: 20px;
+			outline: none;
+			border: 2px solid lightslategray;
+  }
+
+  .interest-Button:hover {
+	background-color: #bc7e48;
+	padding: 25px 50px;
+  }
   
   .select {
 	position: relative;
 	display: inline-block;
+	margin-left: 50px;
+	width: 70%;
+	background-color: white;
+	font-size: 20px;
+	border: 2px solid black;
+	appearance: menulist;
   }
   
   .dropdown-content {
@@ -1517,4 +1565,43 @@ input, select, textarea {
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	padding: 12px 16px;
 	z-index: 1;
+	border: 2px solid black;
+  }
+
+  .submit-Button{
+	background-color: #bfe1ff;
+	border: none;
+	color: black;
+	padding: 20px 40px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	border-radius: 20px;
+	outline: none;
+	border: 2px solid lightslategray;
+	margin-left: 22%;
+	margin-top: 20px;
+  }
+
+  .submit-Button:hover{
+		background-color: #6292bc;
+  }
+
+  .input{
+	margin-left: 20px;
+	width: 80%;
+	padding: 12px 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+  border: 2px solid black;
+  }
+
+  .inquiry-text{
+	margin-top: 100px;
+	margin-left: 10px;
+	text-align: center;
   }

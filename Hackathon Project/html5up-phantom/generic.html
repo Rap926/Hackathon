@@ -57,6 +57,7 @@
 
 
 				<button id="myBtn" class = "filter-Button">Filter</button>
+				<button id="myButton2" class = "interest-Button">I am interested!</button>
 
 				<!-- The Modal -->
 					<div id="myModal" class="modal">
@@ -66,12 +67,12 @@
 						<span class="close">&times;</span>
 						<div class = "filter-header">Filter</div>
 						<div class="header" style = "margin-left: 25px;">Animal type</div>
-						<select name="Animals" id="animal-dropdown">
+						<select class = "select" name="Animals" id="animal-dropdown">
 							<option value="dog-option">Dog</option>
 							<option value="cat-option">Cat</option>
 						  </select>
 						<div class="header" style = "margin-left: 25px;">Age</div>
-						<select name="Age" id="age-dropdown">
+						<select class="select" name="Age" id="age-dropdown">
 							<option value="baby-option">Baby(0 - 1 years)</option>
 							<option value="child-option">Child(1 - 3 years)</option>
 							<option value="adult-option">Adult(3 - 7 years)</option>
@@ -80,7 +81,24 @@
 						<div></div>
 					</div>
 
-					</div>
+
+					<!-- The Modal -->
+					<div id="myModal2" class="modal">
+
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span class="close2">&times;</span>
+							<div class = "filter-header">Send inquiry</div>
+							<div class="header" style = "margin-left: 25px;">Name</div>
+							<input type="text" class = "input" placeholder="Enter name"></input>
+							<div class="header" style = "margin-left: 25px;">Email</div>
+							<input type="text" class = "input" placeholder="Enter email"></input>
+							<div class="header" style = "margin-left: 25px;">Phone number</div>
+							<input type="text" class = "input" placeholder="Enter phone number"></input>
+							<button class = "submit-Button">Submit</button>
+							
+							<div class = "inquiry-text">**By submitting your contact info, the shelter with this animal may contact you with more information on they process to adopt**</div>
+						</div>
 				
 
 					
