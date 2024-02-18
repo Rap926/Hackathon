@@ -12,7 +12,7 @@ db = pymysql.connections.Connection(
 
 cursor = db.cursor()
 
-cursor.execute("SHOW DATABASES;")
+cursor.execute('SELECT * FROM `pets`.`cats` LIMIT 1;')
 
 for databases in cursor:
   print(databases)
