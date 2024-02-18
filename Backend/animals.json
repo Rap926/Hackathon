@@ -1,0 +1,1991 @@
+{
+  "animals": [
+      {
+          "id": 70769825,
+          "organization_id": "CA2509",
+          "url": "https://www.petfinder.com/dog/hugo-70769825/ca/sacramento/sacramento-spca-ca2509/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Australian Cattle Dog / Blue Heeler",
+              "secondary": "American Staffordshire Terrier",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": "Short",
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": false
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Hugo",
+          "description": "Hugo is a 6-month-old, 32lb pup who is still growing and learning about the world! Hugo is energetic and full...",
+          "organization_animal_id": "55278774",
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/2/?bust=1708242204&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/2/?bust=1708242204&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/2/?bust=1708242204&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/2/?bust=1708242204"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769825/1/?bust=1708242203"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:43:26+0000",
+          "published_at": "2024-02-18T07:43:25+0000",
+          "distance": null,
+          "contact": {
+              "email": "adoptions@sspca.org",
+              "phone": "(916) 504-2854",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Sacramento",
+                  "state": "CA",
+                  "postcode": "95828",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769825"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca2509"
+              }
+          }
+      },
+      {
+          "id": 70769823,
+          "organization_id": "CA1066",
+          "url": "https://www.petfinder.com/dog/bailey-70769823/ca/orange/fochp-ca1066/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Australian Shepherd",
+              "secondary": "Terrier",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": true,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": true,
+              "dogs": true,
+              "cats": true
+          },
+          "tags": [],
+          "name": "Bailey",
+          "description": "Bailey is 8 weeks old and weighs about 5 pounds. Full grown we expect she will be around 35 pounds...",
+          "organization_animal_id": "20238201",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:36+0000",
+          "published_at": "2024-02-18T07:40:35+0000",
+          "distance": null,
+          "contact": {
+              "email": "fochp@yahoo.com",
+              "phone": "(714) 280-4993",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Orange",
+                  "state": "CA",
+                  "postcode": "92865",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769823"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca1066"
+              }
+          }
+      },
+      {
+          "id": 70769822,
+          "organization_id": "CA1066",
+          "url": "https://www.petfinder.com/dog/bailey-70769822/ca/orange/fochp-ca1066/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Australian Shepherd",
+              "secondary": "Terrier",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Female",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": true,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": true,
+              "dogs": true,
+              "cats": true
+          },
+          "tags": [],
+          "name": "Bailey",
+          "description": "Bailey is 8 weeks old and weighs about 5 pounds. Full grown we expect she will be around 35 pounds...",
+          "organization_animal_id": "20238192",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:35+0000",
+          "published_at": "2024-02-18T07:40:34+0000",
+          "distance": null,
+          "contact": {
+              "email": "fochp@yahoo.com",
+              "phone": "(714) 280-4993",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Orange",
+                  "state": "CA",
+                  "postcode": "92865",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769822"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca1066"
+              }
+          }
+      },
+      {
+          "id": 70769821,
+          "organization_id": "LA449",
+          "url": "https://www.petfinder.com/dog/drummer-drumming-70769821/la/covington/northshore-humane-society-la449/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": false
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Drummer Drumming",
+          "description": null,
+          "organization_animal_id": "54918098",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:28+0000",
+          "published_at": "2024-02-18T07:40:27+0000",
+          "distance": null,
+          "contact": {
+              "email": "rescue@nshumane.org",
+              "phone": "(985) 892-7387",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Covington",
+                  "state": "LA",
+                  "postcode": "70433",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769821"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/la449"
+              }
+          }
+      },
+      {
+          "id": 70769805,
+          "organization_id": "MI258",
+          "url": "https://www.petfinder.com/dog/dallas-70769805/mi/harbor-springs/little-traverse-bay-humane-society-mi258/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Pit Bull Terrier",
+              "secondary": "Mixed Breed",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": null,
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Large",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": false
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Dallas",
+          "description": "Hey there, future best friend! My name&amp;#39;s Dallas, and I&amp;#39;m on a quest for my forever home. At 2 years...",
+          "organization_animal_id": "53876957",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:20+0000",
+          "published_at": "2024-02-18T07:40:19+0000",
+          "distance": null,
+          "contact": {
+              "email": "shelterpets@ltbhs.com",
+              "phone": "(231) 347-2396",
+              "address": {
+                  "address1": "1300 West Conway Road",
+                  "address2": null,
+                  "city": "Harbor Springs",
+                  "state": "MI",
+                  "postcode": "49740",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769805"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/mi258"
+              }
+          }
+      },
+      {
+          "id": 70769802,
+          "organization_id": "CA2384",
+          "url": "https://www.petfinder.com/dog/copper-70769802/ca/ramona/frosted-faces-foundation-ca2384/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Dachshund",
+              "secondary": "Chihuahua",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Red / Chestnut / Orange",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Senior",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Copper",
+          "description": "*This is a courtesy listing for a dog located in Stockton, CA.*\n\nMeet Copper! \n\n8-year-old Copper needs a loving new...",
+          "organization_animal_id": "RAM-A-5917",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:19+0000",
+          "published_at": "2024-02-18T07:40:18+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt@frostedfacesfoundation.org",
+              "phone": "(715) 574-6320",
+              "address": {
+                  "address1": "1448 Pine St",
+                  "address2": null,
+                  "city": "Ramona",
+                  "state": "CA",
+                  "postcode": "92065",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769802"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca2384"
+              }
+          }
+      },
+      {
+          "id": 70769803,
+          "organization_id": "CA2384",
+          "url": "https://www.petfinder.com/dog/emma-70769803/ca/ramona/frosted-faces-foundation-ca2384/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": "Terrier",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Apricot / Beige",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Senior",
+          "gender": "Female",
+          "size": "Small",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Emma",
+          "description": "*This is a courtesy listing.*\n\nMeet Emma!\n\nAdorable Emma needs a loving new home. Her mom is undergoing treatment for...",
+          "organization_animal_id": "RAM-A-5916",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:40:19+0000",
+          "published_at": "2024-02-18T07:40:18+0000",
+          "distance": null,
+          "contact": {
+              "email": "adopt@frostedfacesfoundation.org",
+              "phone": "(715) 574-6320",
+              "address": {
+                  "address1": "1448 Pine St",
+                  "address2": null,
+                  "city": "Ramona",
+                  "state": "CA",
+                  "postcode": "92065",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769803"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca2384"
+              }
+          }
+      },
+      {
+          "id": 70769801,
+          "organization_id": "IN26",
+          "url": "https://www.petfinder.com/dog/momma-bear-70769801/in/brazil/clay-county-humane-society-in26/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Mixed Breed",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Female",
+          "size": "Large",
+          "coat": "Short",
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [
+              "Friendly",
+              "Affectionate",
+              "Playful",
+              "Funny"
+          ],
+          "name": "MOMMA BEAR",
+          "description": "MOMMA BEAR is a 2 year old mixed breed taken in as lost with 2 other dogs on 1/29/24. The...",
+          "organization_animal_id": "A2024015 15A",
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/2/?bust=1708241987&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/2/?bust=1708241987&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/2/?bust=1708241987&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/2/?bust=1708241987"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/3/?bust=1708241987&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/3/?bust=1708241987&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/3/?bust=1708241987&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/3/?bust=1708241987"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/4/?bust=1708241988&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/4/?bust=1708241988&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/4/?bust=1708241988&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/4/?bust=1708241988"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/5/?bust=1708241988&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/5/?bust=1708241988&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/5/?bust=1708241988&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/5/?bust=1708241988"
+              },
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/6/?bust=1708241989&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/6/?bust=1708241989&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/6/?bust=1708241989&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/6/?bust=1708241989"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769801/1/?bust=1708241986"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:39:53+0000",
+          "published_at": "2024-02-18T07:39:51+0000",
+          "distance": null,
+          "contact": {
+              "email": "claycohumane@hotmail.com",
+              "phone": "(812) 446-5126",
+              "address": {
+                  "address1": "8280 North County Road 125 West",
+                  "address2": null,
+                  "city": "Brazil",
+                  "state": "IN",
+                  "postcode": "47834",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769801"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/in26"
+              }
+          }
+      },
+      {
+          "id": 70769789,
+          "organization_id": "CA2509",
+          "url": "https://www.petfinder.com/dog/kenji-70769789/ca/sacramento/sacramento-spca-ca2509/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "German Shepherd Dog",
+              "secondary": null,
+              "mixed": false,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": "Brown / Chocolate",
+              "tertiary": null
+          },
+          "age": "Baby",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": "Short",
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": false
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Kenji",
+          "description": "Kenji is a 6 month old, 30 pound (and growing!!!) puppy looking for his forever home!\n\nI have a history...",
+          "organization_animal_id": "55264014",
+          "photos": [
+              {
+                  "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=100",
+                  "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=300",
+                  "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=600",
+                  "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797"
+              }
+          ],
+          "primary_photo_cropped": {
+              "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=300",
+              "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=450",
+              "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797&width=600",
+              "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769789/1/?bust=1708241797"
+          },
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:37:22+0000",
+          "published_at": "2024-02-18T07:37:21+0000",
+          "distance": null,
+          "contact": {
+              "email": "adoptions@sspca.org",
+              "phone": "(916) 504-2854",
+              "address": {
+                  "address1": null,
+                  "address2": null,
+                  "city": "Sacramento",
+                  "state": "CA",
+                  "postcode": "95828",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769789"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ca2509"
+              }
+          }
+      },
+      {
+          "id": 70769783,
+          "organization_id": "KY300",
+          "url": "https://www.petfinder.com/dog/max-70769783/ky/madisonville/hopkins-county-humane-society-ky300/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Doberman Pinscher",
+              "secondary": null,
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Gray / Blue / Silver",
+              "secondary": "Brown / Chocolate",
+              "tertiary": null
+          },
+          "age": "Senior",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": true,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [
+              "Altered",
+              "Crate Trained",
+              "Good With Children",
+              "Good With Other Dogs"
+          ],
+          "name": "Max",
+          "description": null,
+          "organization_animal_id": "HCKY-A-643",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:33:34+0000",
+          "published_at": "2024-02-18T07:33:33+0000",
+          "distance": null,
+          "contact": {
+              "email": "info@hopkinscountyhumanesociety.com",
+              "phone": "(270) 821-8965",
+              "address": {
+                  "address1": "2210 Laffoon Trail",
+                  "address2": null,
+                  "city": "Madisonville",
+                  "state": "KY",
+                  "postcode": "42431",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769783"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ky300"
+              }
+          }
+      },
+      {
+          "id": 70769784,
+          "organization_id": "KY300",
+          "url": "https://www.petfinder.com/dog/albert-70769784/ky/madisonville/hopkins-county-humane-society-ky300/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Black Labrador Retriever",
+              "secondary": "Retriever",
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Black",
+              "secondary": null,
+              "tertiary": null
+          },
+          "age": "Young",
+          "gender": "Male",
+          "size": "Large",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Albert",
+          "description": null,
+          "organization_animal_id": "HCKY-A-16599",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:33:34+0000",
+          "published_at": "2024-02-18T07:33:33+0000",
+          "distance": null,
+          "contact": {
+              "email": "info@hopkinscountyhumanesociety.com",
+              "phone": "(270) 821-8965",
+              "address": {
+                  "address1": "2210 Laffoon Trail",
+                  "address2": null,
+                  "city": "Madisonville",
+                  "state": "KY",
+                  "postcode": "42431",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769784"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ky300"
+              }
+          }
+      },
+      {
+          "id": 70769785,
+          "organization_id": "KY300",
+          "url": "https://www.petfinder.com/dog/harold-70769785/ky/madisonville/hopkins-county-humane-society-ky300/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Pit Bull Terrier",
+              "secondary": null,
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "White / Cream",
+              "secondary": "Brown / Chocolate",
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Harold",
+          "description": null,
+          "organization_animal_id": "HCKY-A-16597",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:33:34+0000",
+          "published_at": "2024-02-18T07:33:33+0000",
+          "distance": null,
+          "contact": {
+              "email": "info@hopkinscountyhumanesociety.com",
+              "phone": "(270) 821-8965",
+              "address": {
+                  "address1": "2210 Laffoon Trail",
+                  "address2": null,
+                  "city": "Madisonville",
+                  "state": "KY",
+                  "postcode": "42431",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769785"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ky300"
+              }
+          }
+      },
+      {
+          "id": 70769786,
+          "organization_id": "KY300",
+          "url": "https://www.petfinder.com/dog/saint-70769786/ky/madisonville/hopkins-county-humane-society-ky300/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+          "type": "Dog",
+          "species": "Dog",
+          "breeds": {
+              "primary": "Boxer",
+              "secondary": null,
+              "mixed": true,
+              "unknown": false
+          },
+          "colors": {
+              "primary": "Gray / Blue / Silver",
+              "secondary": "White / Cream",
+              "tertiary": null
+          },
+          "age": "Adult",
+          "gender": "Male",
+          "size": "Medium",
+          "coat": null,
+          "attributes": {
+              "spayed_neutered": false,
+              "house_trained": false,
+              "declawed": null,
+              "special_needs": false,
+              "shots_current": true
+          },
+          "environment": {
+              "children": null,
+              "dogs": null,
+              "cats": null
+          },
+          "tags": [],
+          "name": "Saint",
+          "description": null,
+          "organization_animal_id": "HCKY-A-16595",
+          "photos": [],
+          "primary_photo_cropped": null,
+          "videos": [],
+          "status": "adoptable",
+          "status_changed_at": "2024-02-18T07:33:34+0000",
+          "published_at": "2024-02-18T07:33:33+0000",
+          "distance": null,
+          "contact": {
+              "email": "info@hopkinscountyhumanesociety.com",
+              "phone": "(270) 821-8965",
+              "address": {
+                  "address1": "2210 Laffoon Trail",
+                  "address2": null,
+                  "city": "Madisonville",
+                  "state": "KY",
+                  "postcode": "42431",
+                  "country": "US"
+              }
+          },
+          "_links": {
+              "self": {
+                  "href": "/v2/animals/70769786"
+              },
+              "type": {
+                  "href": "/v2/types/dog"
+              },
+              "organization": {
+                  "href": "/v2/organizations/ky300"
+              }
+          }
+      },
+      {
+        "id": 70769837,
+        "organization_id": "NC119",
+        "url": "https://www.petfinder.com/cat/smokey-boy-70769837/nc/louisburg/franklin-county-animal-shelter-nc119/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Smokey Boy",
+        "description": "Altered \n\nAvailable for Adoption or Rescue on: 02/17/2024 \n\nMost animals at Franklin County Animal Shelter are of unknown origin. Therefore,...",
+        "organization_animal_id": "51204003",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:57:37+0000",
+        "published_at": "2024-02-18T07:57:36+0000",
+        "distance": null,
+        "contact": {
+            "email": "animalshelter@franklincountync.gov",
+            "phone": "(919) 496-3032",
+            "address": {
+                "address1": "351 T. Kemp Road",
+                "address2": null,
+                "city": "Louisburg",
+                "state": "NC",
+                "postcode": "27549",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769837"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/nc119"
+            }
+        }
+    },
+    {
+        "id": 70769835,
+        "organization_id": "WA07",
+        "url": "https://www.petfinder.com/cat/stinky-70769835/wa/kennewick/benton-franklin-humane-society-wa07/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Senior",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Stinky",
+        "description": "Primary Color: Blue Weight: 6.058kg Age: 9yrs 0mths 0wks Animal has been Spayed",
+        "organization_animal_id": "9392",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:55:22+0000",
+        "published_at": "2024-02-18T07:55:21+0000",
+        "distance": null,
+        "contact": {
+            "email": "shelter@bfhs.com",
+            "phone": "(509) 374-4235",
+            "address": {
+                "address1": "1736 East 7th Avenue",
+                "address2": null,
+                "city": "Kennewick",
+                "state": "WA",
+                "postcode": "99336",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769835"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/wa07"
+            }
+        }
+    },
+    {
+        "id": 70769811,
+        "organization_id": "AL52",
+        "url": "https://www.petfinder.com/cat/mam-mam-70769811/al/tuscaloosa/tuscaloosa-metro-animal-shelter-al52/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": "Black",
+            "secondary": "White",
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Mam Mam",
+        "description": null,
+        "organization_animal_id": "TUSC-A-23043",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:40:26+0000",
+        "published_at": "2024-02-18T07:40:25+0000",
+        "distance": null,
+        "contact": {
+            "email": "adoption@metroanimalshelter.org",
+            "phone": "(205) 752-9101",
+            "address": {
+                "address1": "3140  35th Street",
+                "address2": null,
+                "city": "Tuscaloosa",
+                "state": "AL",
+                "postcode": "35401",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769811"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/al52"
+            }
+        }
+    },
+    {
+        "id": 70769804,
+        "organization_id": "MI258",
+        "url": "https://www.petfinder.com/cat/cheese-70769804/mi/harbor-springs/little-traverse-bay-humane-society-mi258/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Cheese",
+        "description": "Meow, we&amp;#39;re Mac and Cheese, the purrfect pair seeking a forever home! We&amp;#39;re two-year-old feline buddies who love to play...",
+        "organization_animal_id": "55142436",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:40:20+0000",
+        "published_at": "2024-02-18T07:40:19+0000",
+        "distance": null,
+        "contact": {
+            "email": "shelterpets@ltbhs.com",
+            "phone": "(231) 347-2396",
+            "address": {
+                "address1": "1300 West Conway Road",
+                "address2": null,
+                "city": "Harbor Springs",
+                "state": "MI",
+                "postcode": "49740",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769804"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/mi258"
+            }
+        }
+    },
+    {
+        "id": 70769806,
+        "organization_id": "MI258",
+        "url": "https://www.petfinder.com/cat/mac-70769806/mi/harbor-springs/little-traverse-bay-humane-society-mi258/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Mac",
+        "description": "Meow, we&amp;#39;re Mac and Cheese, the purrfect pair seeking a forever home! We&amp;#39;re two-year-old feline buddies who love to play...",
+        "organization_animal_id": "55142432",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:40:20+0000",
+        "published_at": "2024-02-18T07:40:19+0000",
+        "distance": null,
+        "contact": {
+            "email": "shelterpets@ltbhs.com",
+            "phone": "(231) 347-2396",
+            "address": {
+                "address1": "1300 West Conway Road",
+                "address2": null,
+                "city": "Harbor Springs",
+                "state": "MI",
+                "postcode": "49740",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769806"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/mi258"
+            }
+        }
+    },
+    {
+        "id": 70769790,
+        "organization_id": "AK43",
+        "url": "https://www.petfinder.com/cat/goose-70769790/ak/anchorage/clear-creek-cat-rescue-cccr-ak43/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": "Tabby (Orange / Red)",
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": "Short",
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": true,
+            "dogs": true,
+            "cats": true
+        },
+        "tags": [],
+        "name": "Goose",
+        "description": "Goose.? Beautiful fluffy orange teenager about 8 months old, Goose is ready to settle into a loving family and be...",
+        "organization_animal_id": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806"
+            }
+        ],
+        "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769790/1/?bust=1708241806"
+        },
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:36:48+0000",
+        "published_at": "2024-02-18T07:36:47+0000",
+        "distance": null,
+        "contact": {
+            "email": "clearcreekkitties@gmail.com",
+            "phone": "(907) 980-8898",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Anchorage",
+                "state": "AK",
+                "postcode": "99502",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769790"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ak43"
+            }
+        }
+    },
+    {
+        "id": 70769788,
+        "organization_id": "CA1721",
+        "url": "https://www.petfinder.com/cat/princess-70769788/ca/tustin/caring-friends-cat-rescue-ca1721/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": "Calico",
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": true
+        },
+        "tags": [
+            "Friendly",
+            "Gentle",
+            "Independent"
+        ],
+        "name": "Princess",
+        "description": "Princess is about 5 yrs old. She and her sister were returned to us when one of their owners passed...",
+        "organization_animal_id": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/1/?bust=1708241720&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/1/?bust=1708241720&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/1/?bust=1708241720&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/1/?bust=1708241720"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/2/?bust=1708241725&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/2/?bust=1708241725&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/2/?bust=1708241725&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/2/?bust=1708241725"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/4/?bust=1708241727&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/4/?bust=1708241727&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/4/?bust=1708241727&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/4/?bust=1708241727"
+            }
+        ],
+        "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769788/3/?bust=1708241726"
+        },
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:35:29+0000",
+        "published_at": "2024-02-18T07:35:28+0000",
+        "distance": null,
+        "contact": {
+            "email": "cfcradoptions@gmail.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Tustin",
+                "state": "CA",
+                "postcode": "92782",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769788"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ca1721"
+            }
+        }
+    },
+    {
+        "id": 70769782,
+        "organization_id": "AK43",
+        "url": "https://www.petfinder.com/cat/joy-70769782/ak/kenai/clear-creek-cat-rescue-cccr-ak43/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Long Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": "Cream / Ivory",
+            "secondary": "Seal Point",
+            "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": "Long",
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": false
+        },
+        "tags": [],
+        "name": "Joy",
+        "description": "Joy is a fabulously beautiful girl in a luscious ivory coat. seal point markings and sea blue eyes. She is...",
+        "organization_animal_id": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561"
+            }
+        ],
+        "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769782/1/?bust=1708241561"
+        },
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:32:43+0000",
+        "published_at": "2024-02-18T07:32:42+0000",
+        "distance": null,
+        "contact": {
+            "email": "clearcreekkitties@gmail.com",
+            "phone": "(907) 980-8898",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Kenai",
+                "state": "AK",
+                "postcode": "99611",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769782"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ak43"
+            }
+        }
+    },
+    {
+        "id": 70769776,
+        "organization_id": "CA39",
+        "url": "https://www.petfinder.com/cat/wisteria-70769776/ca/burlingame/peninsula-humane-society-and-spca-ca39/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Wisteria",
+        "description": "Hello! My name is Wisteria. I&amp;#39;m a delightful 9 month old, domestic shorthaired, spayed cat. I&amp;#39;m a bit on the...",
+        "organization_animal_id": "20237268-A942244",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:30:29+0000",
+        "published_at": "2024-02-18T07:30:28+0000",
+        "distance": null,
+        "contact": {
+            "email": "adoptinquire@peninsulahumanesociety.org",
+            "phone": "650-340-7022",
+            "address": {
+                "address1": "1450 Rollins Road",
+                "address2": null,
+                "city": "Burlingame",
+                "state": "CA",
+                "postcode": "94010",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769776"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ca39"
+            }
+        }
+    },
+    {
+        "id": 70769715,
+        "organization_id": "KY382",
+        "url": "https://www.petfinder.com/cat/haku-70769715/ky/louisville/kentucky-pets-alive-ky382/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Tabby",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Haku",
+        "description": "This awesome orange/ginger trio of Kyo, Michi and Haku is NOW READY for adoption. You can&amp;#39;t argue that orange/ginger boys...",
+        "organization_animal_id": "20238355",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:24:23+0000",
+        "published_at": "2024-02-18T07:24:22+0000",
+        "distance": null,
+        "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Louisville",
+                "state": "KY",
+                "postcode": "40299",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769715"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ky382"
+            }
+        }
+    },
+    {
+        "id": 70769716,
+        "organization_id": "KY382",
+        "url": "https://www.petfinder.com/cat/reid-70769716/ky/louisville/kentucky-pets-alive-ky382/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Reid",
+        "description": "Reid is the only boy in his litter. He and his siblings Rivers, Rawlings and Rayne were rescued from a...",
+        "organization_animal_id": "20238364",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:24:23+0000",
+        "published_at": "2024-02-18T07:24:22+0000",
+        "distance": null,
+        "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Louisville",
+                "state": "KY",
+                "postcode": "40299",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769716"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ky382"
+            }
+        }
+    },
+    {
+        "id": 70769717,
+        "organization_id": "KY382",
+        "url": "https://www.petfinder.com/cat/liza-70769717/ky/louisville/kentucky-pets-alive-ky382/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Tabby",
+            "secondary": "Torbie",
+            "mixed": true,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Liza",
+        "description": "Super sweet 9 month old mother with kittens - Liza is a 9 month old who was rescued from a...",
+        "organization_animal_id": "20238386",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:24:23+0000",
+        "published_at": "2024-02-18T07:24:22+0000",
+        "distance": null,
+        "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Louisville",
+                "state": "KY",
+                "postcode": "40299",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769717"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ky382"
+            }
+        }
+    },
+    {
+        "id": 70769718,
+        "organization_id": "KY382",
+        "url": "https://www.petfinder.com/cat/juliet-70769718/ky/louisville/kentucky-pets-alive-ky382/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Dilute Calico",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+        },
+        "tags": [],
+        "name": "Juliet",
+        "description": "Gorgeous momma - Juliet delivered six beautiful kittens in a crowded shelter that euthanizes for space. Thanks to a foster,...",
+        "organization_animal_id": "20238376",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:24:23+0000",
+        "published_at": "2024-02-18T07:24:22+0000",
+        "distance": null,
+        "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Louisville",
+                "state": "KY",
+                "postcode": "40299",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769718"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ky382"
+            }
+        }
+    },
+    {
+        "id": 70769719,
+        "organization_id": "KY382",
+        "url": "https://www.petfinder.com/cat/hannah-70769719/ky/louisville/kentucky-pets-alive-ky382/?referrer_id=55c85358-b509-4fae-9aaa-033f5eff4dd9&utm_source=api&utm_medium=partnership&utm_content=55c85358-b509-4fae-9aaa-033f5eff4dd9",
+        "type": "Cat",
+        "species": "Cat",
+        "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+        },
+        "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": true
+        },
+        "tags": [],
+        "name": "Hannah",
+        "description": "Sweet kitten - Rescued from a kill shelter with &amp;#39;siblings&amp;#39; Hailey and Hank",
+        "organization_animal_id": "20238388",
+        "photos": [],
+        "primary_photo_cropped": null,
+        "videos": [],
+        "status": "adoptable",
+        "status_changed_at": "2024-02-18T07:24:23+0000",
+        "published_at": "2024-02-18T07:24:22+0000",
+        "distance": null,
+        "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Louisville",
+                "state": "KY",
+                "postcode": "40299",
+                "country": "US"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "/v2/animals/70769719"
+            },
+            "type": {
+                "href": "/v2/types/cat"
+            },
+            "organization": {
+                "href": "/v2/organizations/ky382"
+            }
+        }
+    }
+  ],
+  "pagination": {
+      "count_per_page": 20,
+      "total_count": 166632,
+      "current_page": 1,
+      "total_pages": 8332,
+      "_links": {
+          "next": {
+              "href": "/v2/animals?status=adoptable&type=dog&page=2"
+          }
+      }
+  }
+}
