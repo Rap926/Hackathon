@@ -1087,7 +1087,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		background-color: #7ecaf6;
 	}
 
 		#footer > .inner {
@@ -1284,6 +1284,7 @@ input, select, textarea {
 			justify-content: center;
 			align-items: center;
 			padding-bottom:40px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 		
 		.header{
@@ -1291,6 +1292,7 @@ input, select, textarea {
 			font-size: 28px;
 			font-weight: bold;
 			padding-top: 2px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 		
 		.label{
@@ -1298,6 +1300,7 @@ input, select, textarea {
 			font-size: 20px;
 			font-weight: bold;
 			padding-top: 20px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 		
 		.text{
@@ -1305,6 +1308,7 @@ input, select, textarea {
 			display: flex;
 			padding-top: 10px;
 			padding-left: 40px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 		
 		#nextButton {
@@ -1325,6 +1329,7 @@ input, select, textarea {
 			outline: none;
 			border: 2px solid lightslategray;
 			margin-left: 10px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 
 		#backButton {
@@ -1343,6 +1348,7 @@ input, select, textarea {
 			border-radius: 20px;
 			outline: none;
 			border: 2px solid lightslategray;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
         
          
@@ -1382,17 +1388,22 @@ input, select, textarea {
 			text-decoration: none;
 			display: inline-block;
 			font-size: 60px;
+			font-weight: bold;
 			margin: 4px 2px;
 			transition-duration: 0.4s;
 			cursor: pointer;
 			border-radius: 20px;
 			outline: none;
 			cursor: pointer;
+
+			animation: fadeInAnimation ease 2s;
+			animation-iteration-count: 1;
 		  }
 		  
 		  .button:hover {
-	
-			padding: 150px 300px;
+			filter: brightness(70%);
+			scale: 1.07;
+			translate: 0 -20px;
 		  }
 
 		  /* The Modal (background) */
@@ -1512,20 +1523,21 @@ input, select, textarea {
 			text-decoration: none;
 			display: inline-block;
 			font-size: 40px;
-			margin: 4px 2px;
+			margin: 40px 2px;
 			transition-duration: 0.4s;
 			cursor: pointer;
 			border-radius: 20px;
 			outline: none;
 			border: 2px solid lightslategray;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
   }
 
   .filter-Button:hover {
 	background-color: #6292bc;
-	padding: 25px 50px;
   }
 
   .interest-Button{
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	position: fixed;
 	top: 400px;
 	left: 50px;
@@ -1537,7 +1549,7 @@ input, select, textarea {
 			text-align: center;
 			text-decoration: none;
 			display: inline-block;
-			font-size: 27px;
+			font-size: 40px;
 			margin: 4px 2px;
 			transition-duration: 0.4s;
 			cursor: pointer;
@@ -1548,7 +1560,6 @@ input, select, textarea {
 
   .interest-Button:hover {
 	background-color: #bc7e48;
-	padding: 25px 50px;
   }
   
   .select {
@@ -1574,6 +1585,7 @@ input, select, textarea {
   }
 
   .submit-Button{
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	background-color: #bfe1ff;
 	border: none;
 	color: black;
@@ -1610,3 +1622,30 @@ input, select, textarea {
 	margin-left: 10px;
 	text-align: center;
   }
+
+  @keyframes fadeInAnimation {
+    0% {
+        filter: brightness(20%);
+    }
+    100% {
+        filter: brightness(100%);
+    }
+}
+
+.image{
+	height:250px;
+	margin-top: 30px;
+	margin-right: 10px;
+	border: 2px solid black;
+}
+
+.image:hover{
+	filter: brightness(90%);
+	scale: 1.05;
+	translate: 0 -5px;
+}
+
+.bottom-footer{
+	height:30px;
+	background-color: #bfe1ff;
+}
