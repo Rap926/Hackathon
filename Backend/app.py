@@ -31,9 +31,33 @@ class Animals(db.Model):
 
 
 
+
+
+@app.route("/about.html")
+def about():
+  details = Animals.query.all()
+  return render_template("about.html", details=details)
+
+
+@app.route("/contact.html")
+def contact():
+  details = Animals.query.all()
+  return render_template("contact.html", details=details)
+
+@app.route("/elements.html")
+def elements():
+  details = Animals.query.all()
+  return render_template("elements.html", details=details)
+
+
+@app.route("/index.html")
+def index():
+  details = Animals.query.all()
+  return render_template("index.html", details=details)
+
 @app.route("/")
-def initial_query():
-  details = Animals.query.limit(100).all()
+def generic_query():
+  details = Animals.query.limit(10).all()
   return render_template("generic.html", details=details)
 
 if __name__ == "__main__":
