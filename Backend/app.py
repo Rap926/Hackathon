@@ -25,6 +25,11 @@ class Cats(db.Model):
   animals_type = db.Column(db.String(3), nullable=False)
   animals_description = db.Column(db.String(112), nullable=False)
 
+  animals_age = db.Column(db.Integer)
+  animals_gender = db.Column(db.String(4), nullable=False)
+  animals_photos_full = db.Column(db.String(76), nullable=False)
+
+
 
 @app.route("/")
 def initial_query():
