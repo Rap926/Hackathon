@@ -6,61 +6,84 @@
 -->
 <html>
 	<head>
-		<title></title>
+		<title>tinder</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/styles.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
+		
 		<!-- Wrapper -->
 			<div id="wrapper">
 
 				<!-- Header -->
-					<header id="header">
-						<div class="inner">
+				<header id="header">
+					<div class="inner">
 
-							<!-- Logo -->
-								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Pawnder</span>
-								</a>
+						<!-- Logo -->
+							<a href="index.html" class="logo">
+								<span class="symbol"><img src="images/logo.svg" style = "width: 75px; height: 75px;" alt="" /></span><span class="title" style = "font-size: 50px">Pawnder</span>
+							</a>
 
-							<!-- Nav -->
-								<nav>
-									<ul>
-										<li><a href="#menu">Menu</a></li>
-									</ul>
-								</nav>
+						<!-- Nav -->
+							
 
-						</div>
-					</header>
-
-				<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="generic.html">Ipsum veroeros</a></li>
-							<li><a href="generic.html">Tempus etiam</a></li>
-							<li><a href="generic.html">Consequat dolor</a></li>
-							<li><a href="elements.html">Elements</a></li>
-						</ul>
-					</nav>
+					</div>
+				</header>
 
 				<!-- Main -->
-					<div id="card-container">
+				<div style="display: flex; justify-content: center;">
+					<div id="card-container" style="width: 70%;">
 						<div class="card">
 							<img src="images/dirtDog.jpeg" height="300" alt="Pfart boy">
-							<div class="card-text-cointainer">  
+							<div class="card-text-cointainer">
 								<name class="name" id="pet-name">Fart boy</name>
 								<header class="header">About</header>
-								<text class="text" id = "pet-about">He fart alot</text> 
+								<text class="text" id="pet-about">He fart alot</text>
 							</div>
 						</div>
 						<!-- Add more cards here -->
 					</div>
-					<button id="nextButton">&rarr;</button>
+				</div>
+				
+
+				<div class="sticky" style="position:fixed;bottom:0;left:40%;">
+				<center>
+				<button id="backButton">Back</button>
+					<button id="nextButton">Next</button>
+				</center>
+			</div>
+
+
+				<button id="myBtn" class = "filter-Button">Filter</button>
+
+				<!-- The Modal -->
+					<div id="myModal" class="modal">
+
+					<!-- Modal content -->
+					<div class="modal-content">
+						<span class="close">&times;</span>
+						<div class = "filter-header">Filter</div>
+						<div class="header" style = "margin-left: 25px;">Animal type</div>
+						<select name="Animals" id="animal-dropdown">
+							<option value="dog-option">Dog</option>
+							<option value="cat-option">Cat</option>
+						  </select>
+						<div class="header" style = "margin-left: 25px;">Age</div>
+						<select name="Age" id="age-dropdown">
+							<option value="baby-option">Baby(0 - 1 years)</option>
+							<option value="child-option">Child(1 - 3 years)</option>
+							<option value="adult-option">Adult(3 - 7 years)</option>
+							<option value="senior-option">Senior(7+ years)</option>
+						  </select>
+						<div></div>
+					</div>
+
+					</div>
+				
+
+					
 					<script src="script.js"></script>
 
 			</div>
