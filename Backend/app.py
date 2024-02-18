@@ -1,0 +1,36 @@
+from flask import Flask, render_template, request, redirect, url_for
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import create_engine
+
+app = Flask(__name__)
+
+db = SQLAlchemy()
+
+host = "192.168.102.44"
+user = "sqluser"
+pin = "password"
+db_name = "pets"
+
+app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+pymysql://{user}:{pin}@{host}/{db_name}"
+
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db.init_app(app)
+
+class Cats(db.Model):
+  __tablename__ = "cats"
+  animals_id = db.Column(db.Integer, primary_key=True)
+  animals_name = db.Column(db.String(15), nullable=False)
+  animals_url = db.Column(db.String(245), nullable=False)
+  animals_type = db.Column(db.String(3), nullable=False)
+  animals_description = db.Column(db.String(112), nullable=False)
+
+
+@app.route("/")
+def initial_query():
+  details = Cats.query.all()
+  return render_template("home.html", details=details)
+
+if __name__ == "__main__":
+  app.run(debug=True)
+
